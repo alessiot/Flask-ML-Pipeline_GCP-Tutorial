@@ -6,7 +6,7 @@ To follow detailed explanations on the steps, please refer to the blog [A Hands-
 This project demonstrates how a Flask ML app can be deployed on Google Cloud Platform using Docker container and YAML files that are useful to build continuous deployment (CD) pipelines. 
 
 ### Prerequisites (requirements.txt)
- - Scikit Learn
+ - Scikit Learn 
  - Pandas 
  - Numpy
  - Flask 

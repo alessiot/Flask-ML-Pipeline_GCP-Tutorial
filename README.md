@@ -33,6 +33,8 @@ The flask app will run on http://0.0.0.0:8080/ (localhost)
 
 
 ### Deploying on Google Cloud
+Go to cloudbuild.yaml and under args change name of flask app accordingly
+
 3. Create a Google Cloud Run trigger at: https://console.cloud.google.com/cloud-build/triggers
 
 4. Check the deployed app at: https://console.cloud.google.com/run
